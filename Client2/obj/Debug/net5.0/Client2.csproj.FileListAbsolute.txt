@@ -1,0 +1,5 @@
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net5.0\Client2.csproj.AssemblyReference.cache
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net5.0\Client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net5.0\Client2.AssemblyInfoInputs.cache
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net5.0\Client2.AssemblyInfo.cs
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net5.0\Client2.csproj.CoreCompileInputs.cache

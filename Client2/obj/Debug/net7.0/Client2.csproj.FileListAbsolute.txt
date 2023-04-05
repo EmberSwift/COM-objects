@@ -1,0 +1,15 @@
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\bin\Debug\net7.0\Client2.exe
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\bin\Debug\net7.0\Client2.deps.json
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\bin\Debug\net7.0\Client2.runtimeconfig.json
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\bin\Debug\net7.0\Client2.dll
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\bin\Debug\net7.0\Client2.pdb
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\Client2.csproj.AssemblyReference.cache
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\Client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\Client2.AssemblyInfoInputs.cache
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\Client2.AssemblyInfo.cs
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\Client2.csproj.CoreCompileInputs.cache
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\Client2.dll
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\refint\Client2.dll
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\Client2.pdb
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\Client2.genruntimeconfig.cache
+C:\Users\plahi\OneDrive\Рабочий стол\Ужас человечества\4 курс\2 трим\Компонентное программирование\Компонентное программирование\ComExample2\Client2\obj\Debug\net7.0\ref\Client2.dll
